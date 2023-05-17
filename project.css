@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;1,100&display=swap');
+html, body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #ddd;
+    line-height: 1.65;
+}
+.container-satu{
+    width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    text-align: justify;
+}
+.sidebar-dua{
+    margin: 20px;
+    box-shadow: 0 4px 8px 0;
+    background: #fff;
+    text-align: center;
+        
+}
+.kontak-saya{
+    display: flex;
+   padding: 5px 5px;
+    
+    
+}
+.satuuu{
+    background-color: black;
+    color: #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+.dua{
+    padding: 5px;
+    margin-left: 5px;
+    
+}
+.margin-gambar{
+    cursor: pointer;
+    padding: 5px;
+    align-items: center;
+
+    
+}
+.gambar-download{
+    padding: 5px;
+    cursor: pointer;
+}
